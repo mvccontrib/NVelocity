@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcContrib.ViewEngines.NVelocity", "src\MvcContrib.ViewEngines.NVelocity\MvcContrib.ViewEngines.NVelocity.csproj", "{569A1BA4-D540-4FD1-B7E9-516FA0027F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcContrib.ViewEngines.NVelocity.Tests", "src\MvcContrib.ViewEngines.NVelocity.Tests\MvcContrib.ViewEngines.NVelocity.Tests.csproj", "{40255C8F-F4F6-45BA-A1FD-E08EA49C2904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569A1BA4-D540-4FD1-B7E9-516FA0027F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569A1BA4-D540-4FD1-B7E9-516FA0027F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569A1BA4-D540-4FD1-B7E9-516FA0027F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569A1BA4-D540-4FD1-B7E9-516FA0027F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40255C8F-F4F6-45BA-A1FD-E08EA49C2904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40255C8F-F4F6-45BA-A1FD-E08EA49C2904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40255C8F-F4F6-45BA-A1FD-E08EA49C2904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40255C8F-F4F6-45BA-A1FD-E08EA49C2904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
