@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcContrib.ViewEngines.NVel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcContrib.ViewEngines.NVelocity.Tests", "src\MvcContrib.ViewEngines.NVelocity.Tests\MvcContrib.ViewEngines.NVelocity.Tests.csproj", "{40255C8F-F4F6-45BA-A1FD-E08EA49C2904}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcContrib.Samples.NVelocityViewFactory", "src\Sample\MvcContrib.Samples.NVelocityViewFactory.csproj", "{852ABBD2-9B55-4B95-974F-1559A16DB599}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{40255C8F-F4F6-45BA-A1FD-E08EA49C2904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40255C8F-F4F6-45BA-A1FD-E08EA49C2904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40255C8F-F4F6-45BA-A1FD-E08EA49C2904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852ABBD2-9B55-4B95-974F-1559A16DB599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852ABBD2-9B55-4B95-974F-1559A16DB599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852ABBD2-9B55-4B95-974F-1559A16DB599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852ABBD2-9B55-4B95-974F-1559A16DB599}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
